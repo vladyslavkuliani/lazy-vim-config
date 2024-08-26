@@ -213,4 +213,5 @@ return {
       require("telescope").load_extension("file_browser")
     end,
   },
+  { "mg979/vim-visual-multi" },
 }
